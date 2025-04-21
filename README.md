@@ -5,4 +5,4 @@
 4. gui tests;
 5. rock paper scissors;
 6. timer;
-7. Trabalho de Artes Tipos de Croqui.
+~~7. Trabalho de Artes Tipos de Croqui.~~
